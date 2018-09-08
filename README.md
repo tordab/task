@@ -1,4 +1,2 @@
 # task
-testing github
-
-This is a confusing mess of a service.
+Dette er mappen for alle oppgavene i uke 37 av MAT-IN1105.
